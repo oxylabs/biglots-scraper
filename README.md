@@ -18,7 +18,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.biglots.com/c/furniture/office-furniture/_/n-916368633?scm=furniture_jas23_viznav_inspo_office'
 }
 

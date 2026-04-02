@@ -54,4 +54,5 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Biglots Scraper, you can seamlessly harvest public data from any Biglots webpage. You can gather essential product specifics like price, customer testimonials, or descriptions to monitor the market and outshine your competition. If any queries arise, feel free to get in touch with our responsive support team via the live-chat feature or drop us an email at hello@oxylabs.io.
+With our Biglots Scraper, you can seamlessly harvest public data from any Biglots webpage. You can gather essential product specifics like price, customer testimonials, or descriptions to monitor the market and outshine your competition. If any queries arise, feel free to get in touch with our responsive support team via the live-chat feature or drop us an email at support@oxylabs.io.
+
